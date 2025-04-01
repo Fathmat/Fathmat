@@ -1,5 +1,5 @@
 # Hi there, I’m Fathmat! 👋:
-🎓 Final-year Financial Engineering student with a strong background in math, data, and code.  <br>💡 I use NLP and machine learning to solve real-world problems — from SEC filing analysis to forecasting events.  <br>🌍 Passionate about finance, development, and building tools that make decisions smarter and faster.
+🎓 Final-year Financial Engineering student with a background in math, data, and code.  <br>💡 I use NLP and machine learning to solve real-world problems — from SEC filing analysis to forecasting events.  <br>🌍 Passionate about finance, development, and building tools that make decisions smarter and faster.
 
 
 
