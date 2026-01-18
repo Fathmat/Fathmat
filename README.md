@@ -1,14 +1,4 @@
-# Hi there, I’m Fathmat! 👋:
-🎓 Final-year Financial Engineering student with a background in math, data, and code.  <br>💡 I use NLP and machine learning to solve real-world problems — from SEC filing analysis to forecasting events.  <br>🌍 Passionate about finance, development, and building tools that make decisions smarter and faster.
-
-
-
-## 💼 What I'm Working On
-
-- 🤖 **LLM-powered event prediction**: Classifying and forecasting SEC 8-K filings using BERT, T5, and GPT models.
-- 📊 **Quant finance projects**: Data-driven strategies with a focus on real options and market signals.
-
-  
+# Hi there, I’m Fathmat! 👋: 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fathmat-bakayoko-30715024a) 
 
